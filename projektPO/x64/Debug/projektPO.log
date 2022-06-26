@@ -1,0 +1,5 @@
+﻿  projektPO.cpp
+C:\Users\domin\source\repos\projektPO\projektPO\projektPO.cpp(355,75): warning C4305: 'argument': truncation from 'double' to '_cena'
+C:\Users\domin\source\repos\projektPO\projektPO\projektPO.cpp(362,50): warning C4305: 'argument': truncation from 'double' to '_cena'
+C:\Users\domin\source\repos\projektPO\projektPO\projektPO.cpp(368,50): warning C4305: 'argument': truncation from 'double' to '_cena'
+  projektPO.vcxproj -> C:\Users\domin\source\repos\projektPO\x64\Debug\projektPO.exe
